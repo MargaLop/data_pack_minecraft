@@ -1,0 +1,1 @@
+tellraw @a {"text": "El data pack esta ACTIVO", "color": "red", "bold": true}
