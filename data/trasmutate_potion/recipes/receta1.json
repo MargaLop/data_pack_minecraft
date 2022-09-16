@@ -1,0 +1,11 @@
+{
+    "type":"crafting_shaped",
+    "pattern": ["x x"," y ","x x"],
+    "key":{	
+        "x":{"item": "minecraft:diamond"},
+        "y":{"item": "minecraft:potion"}
+    },
+    "result": {
+        "item": "minecraft:stone", "count": 64
+    }
+}
