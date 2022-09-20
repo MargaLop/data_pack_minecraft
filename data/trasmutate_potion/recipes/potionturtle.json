@@ -1,0 +1,11 @@
+{
+    "type":"crafting_shaped",
+    "pattern": ["   ","xyx","   "],
+    "key":{	
+        "x":{"item": "minecraft:emerald"},
+        "y":{"item": "minecraft:potion"}
+    },
+    "result": {
+        "item": "knowledge_book", "count": 1
+    }
+}

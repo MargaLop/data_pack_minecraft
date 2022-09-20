@@ -1,0 +1,1 @@
+give @s honey_bottle{burger:true, display:{Name:'[{"text":"Burger","italic":false}]'}, CustomModelData:2, HideFlags:103} 1
